@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    background-image: url(../DrumKit/images/john-matychuk-gUK3lA3K7Yo-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #f5bb7e;
+    font-family: 'Original Surfer', cursive;
+    text-shadow: 3px 0 #df6f07;
+}
+
+footer {
+    color: #d18c0a;
+    font-family: sans-serif;
+}
+
+
+/* .w {}
+
+.a {}
+
+.s {}
+
+.d {}
+
+.j {}
+
+.k {}
+
+.l {} */
+
+.set {
+    margin: 10% auto;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #042b813d;
+    opacity: 0.5;
+}
+
+.red {
+    color: rgb(255, 0, 0);
+}
+
+.drum {
+    outline: none;
+    border: 10px solid #50191c9a;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #202b1d;
+    text-shadow: 3px 0 #79582f;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: #4e3d367e;
+}
